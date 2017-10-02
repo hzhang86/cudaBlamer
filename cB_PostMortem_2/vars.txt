@@ -1,0 +1,4 @@
+VertexHash
+FunctionHash
+ModuleHash
+StructHash
