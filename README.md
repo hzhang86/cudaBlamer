@@ -1,4 +1,4 @@
-# cudaBlamer
+# cudaBlamer #DEPRECATED
 A data-centric profiler for GPU cuda programs
 
 This performance analysis tool will figure out the most "blamed" variables in gpu kernels. 
